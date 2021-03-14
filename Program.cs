@@ -86,7 +86,7 @@ namespace TicTacToe
         }
         static void Main(string[] args)
         {
-            int player = 1;
+            int player = 2;
             int input = 0;
             bool inputCorrect = true;
 
